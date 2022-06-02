@@ -1,9 +1,7 @@
-## Flat Edit
-
-creating documentation is not easy in hundreds of small projects, where are dependencies
+creating documentation is not easy in **hundreds** of projects, where are dependencies
 we need some simple tool to manage the documentation from the terminal, during programming
 
-this is the FlatEdit to help You manage the content of many projects
+this is the **FlatEdit** to help You manage the content of many projects
 
 
 + [Kod źródłowy - examples.flatedit.com](http://examples.flatedit.com)
